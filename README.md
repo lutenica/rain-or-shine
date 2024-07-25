@@ -46,7 +46,7 @@ Bingo-bango-bongo you have your results.
 ## 2. Docker:
 For running it within docker the steps are simple. Once you've built the image to execute the script one needs to run:
 ```
-docker run --rm rain-or-shine --lat=X.X --long=Y.Y --mode=mode_of_choice 
+docker run --rm $WHAT_I_WANT_THE_APP_TO_BE_CALLED --lat=X.X --long=Y.Y --mode=mode_of_choice 
 ```
 ## All options:
 Below is a comprehensive list of all available options and all of their values.
